@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title":"Carpaccio fresco",
+        "description":"Entrada Carpaccio de salmón con cítricos",
+        "description_completed": "Exquisitas láminas de salmón crudo, marinadas en jugo de limón y aceite de oliva, presentadas con hojas de ensalada fresca y alcaparras. Una entrada ligera y elegante, perfecta para abrir su paladar y prepararlo para una experiencia culinaria memorable.",
+        "price":"U$S 65.50",
+        "image": "/images/Carpaccio-de-salmon.jpg"
+    },
+    {
+        "id": 2,
+        "title":"Risotto de berenjena",
+        "description":"Risotto de berenjena y queso de cabra",
+        "description_completed": "Delicioso risotto cremoso con berenjena asada y queso de cabra. Una opción reconfortante y llena de sabor para cualquier ocasión.",
+        "price":"U$S 47.00",
+        "image": "/images/Risotto-berenjena-queso-cabra.jpg"
+    },
+    {
+        "id": 3,
+        "title":"Mousse de arroz",
+        "description":"Mousse de arroz con leche y aroma de azahar",
+        "description_completed": "Suave y delicado mousse elaborado con arroz, leche y un toque de aroma de azahar. Una opción dulce y reconfortante para satisfacer tu paladar después de una comida o como postre ligero.",
+        "price":"U$S 27.50",
+        "image": "/images/Mousse-de-arroz-con-leche.jpg"
+    },
+    {
+        "id": 4,
+        "title":"Espárragos blancos",
+        "description":"Espárragos blancos con vinagreta de verduras y jamón ibérico",
+        "description_completed":"Delicados espárragos blancos servidos con una refrescante vinagreta de verduras y acompañados de finas lonchas de jamón ibérico. Una opción elegante y sabrosa que resalta la frescura de los ingredientes y deleita el paladar con cada bocado.",
+        "price":"U$S 37.50",
+        "image": "/images/esparragos.png"
+    }
+]
